@@ -1,0 +1,4 @@
+#ifndef WEBSOCKBRIDGE_BRIDGE_H
+#define WEBSOCKBRIDGE_BRIDGE_H
+
+#endif
